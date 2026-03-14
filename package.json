@@ -1,7 +1,7 @@
 {
-  "name": "origami-dukkani",
+  "name": "origami-site",
   "version": "1.0.0",
-  "description": "Yusuf Kağan Canlı Sipariş Sistemi",
+  "description": "Yusuf Kagan Canli Siparis",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
