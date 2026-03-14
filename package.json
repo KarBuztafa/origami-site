@@ -1,7 +1,6 @@
 {
   "name": "origami-site",
   "version": "1.0.0",
-  "description": "Yusuf Kagan Canli Siparis",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
